@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+# Hi there 👋
+</div>
 
-<!--
-**mojtabasohrabi/mojtabasohrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mojtaba Sohrabi
 
-Here are some ideas to get you started:
+I'm a full-stack developer currently working at [ArzDigital](https://www.linkedin.com/company/arzdigital).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code backend with PHP and NodeJs and frontend with JS.
+
+I’m currently learning React js.
+
+You can find me at [Instagram](https://instagram.com/mojtabasohrabi1), [LinkedIn](https://linkedin.com/in/mojtabasohrabi1) and [Telegram](https://t.me/mojtabasohrabi1) by searching @mojtabasohrabi1.
