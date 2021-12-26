@@ -1,5 +1,5 @@
-<div align="center">
-## Hi there 👋
+<div align="center" style="font-size:45px">
+Hi there 👋
 </div>
 
 I'm Mojtaba Sohrabi
