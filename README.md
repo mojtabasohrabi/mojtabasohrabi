@@ -3,7 +3,7 @@
 
 I'm Mojtaba Sohrabi
 
-I'm a full-stack developer currently working at [ArzDigital](https://www.linkedin.com/company/arzdigital).
+I'm a full-stack developer currently working at [Yektanet](https://www.linkedin.com/company/yektanet).
 
 I code backend with PHP and NodeJs and frontend with JS.
 
