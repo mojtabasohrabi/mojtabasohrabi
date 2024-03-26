@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojtabasohrabi" alt="mojtabasohrabi" /></a> </p>
 
-- 🌱 I’m currently learning **deep python and golang**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **PHP, Python, Django**
+- 💬 Ask me about **Python, Django, DRF**
 
 - 📫 How to reach me **dev.mojtabasohrabi@gmail.com**
 
